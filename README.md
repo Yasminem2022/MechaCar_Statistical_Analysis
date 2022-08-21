@@ -11,3 +11,7 @@
 
 ![Total_Summary](total_summary.png)
 ![Lot_Summary](lot_summary.png)
+
+## T-Tests on Suspension Coils
+briefly summarize your interpretation and findings for the t-test results
+![T_Tests](t_tests.png)
